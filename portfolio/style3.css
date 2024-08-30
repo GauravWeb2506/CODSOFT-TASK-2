@@ -1,0 +1,62 @@
+.navbar
+{
+	list-style-type:none;
+	display:flex;
+	overflow:hidden;
+	float:right;
+    
+}
+a
+{
+	text-decoration:none;
+	padding:40px;
+	font-size:30px;
+	color:white;
+	border:1px,solid,white;
+}
+.Active
+{
+	background-color:blue;
+}
+li a:hover
+{
+	background-color:blue;
+	
+}
+body
+{
+	background-color:black;
+}
+h1
+{
+	color:yellow;
+	margin-left:800px;
+	padding-top:100px;
+	font-family:calibri;
+}
+h2
+{
+	color:red;
+	margin-left:800px;
+}
+.container
+{
+	color:white;
+	position:absolute;
+    left:700px;
+	right:20px;
+	font-family:arial black;
+	text-align:justify;
+}
+img
+{
+	width:400px;
+	height:600px;
+	position:absolute;
+	top:150px;
+	left:100px;
+}
+
+    
+
+

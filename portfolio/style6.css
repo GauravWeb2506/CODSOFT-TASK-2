@@ -1,0 +1,77 @@
+.navbar
+{
+	list-style-type:none;
+	display:flex;
+	overflow:hidden;
+	float:right;
+	
+}
+a
+{
+padding:40px;
+text-decoration:none;
+font-size:30px;
+border:1px,solid,white;
+color:white;
+}
+body
+{
+	background-color:black;
+}
+.Active
+{
+	background-color:blue;
+}
+li a:hover
+{
+	background-color:blue;
+}
+h1
+{
+	color:orangered;
+	position:absolute;
+	top:200px;
+	left:700px;
+}
+p
+{
+	color:yellow;
+	position:absolute;
+	top:300px;
+	left:600px;
+	right:20px;
+    font-size:20px;
+	font-family:arial black;
+	text-align:justify;
+}
+img
+{
+	width:500px;
+    position:absolute;
+	top:300px;
+	
+}
+h2
+{
+	color:orange;
+	position:absolute;
+	top:600px;
+	left:700px;
+	font-size:30px;
+}
+.para
+{
+	color:blue;
+	position:absolute;
+	top:700px;
+	right:20px;
+	font-size:20px;
+	text-align:justify;
+	font-family:arial black;
+}
+.landing
+{
+	width:500px;
+    position:absolute;
+	top:700px;
+}

@@ -1,0 +1,121 @@
+.navbar
+{
+	list-style-type:none;
+	display:flex;
+	overflow:hidden;
+	float:right;
+	
+}
+a
+{
+padding:40px;
+text-decoration:none;
+font-size:30px;
+border:1px,solid,white;
+color:white;
+}
+body
+{
+	background-color:black;
+}
+.Active
+{
+	background-color:blue;
+}
+li a:hover
+{
+	background-color:blue;
+}
+.header
+{
+	color:white;
+	position:absolute;
+	top:200px;
+	left:200px;
+    font-size:20px;
+	font-family:arial black;
+}
+.Info
+{
+	color:white;
+	position:absolute;
+	top:250px;
+	left:20px;
+	font-size:15px;
+}
+.container
+{
+	color:white;
+	position:absolute;
+	top:280px;
+	right:780px;
+	left:20px;
+}
+.img
+{
+	width:50px;
+	height:50px;
+	position:absolute;
+	top:380px;
+	left:10px;
+}
+.gmail
+{
+	color:white;
+	position:absolute;
+	top:380px;
+	left:54px;
+}
+.call
+{
+	width:50px;
+	height:50px;
+	position:absolute;
+	top:425px;
+}
+.mobile
+{
+	color:white;
+	position:absolute;
+	top:425px;
+	left:50px;
+	font-size:15px;
+}
+.logo
+{
+	width:150px;
+	height:150px;
+	position:absolute;
+	top:470px;
+	left:20px;
+}
+.f
+{
+	background-color:red;
+	border:none;
+    overflow:hidden;
+	position:absolute;
+	top:200px;
+	left:800px;
+	right:20px;
+	font-size:20px;
+	padding-left:20px;
+	padding-bottom:20px;
+	font-family:arial black;
+}
+input[type=text],[type=gmail]
+{
+width:500px;
+padding:12px;
+margin:8px 0;
+background-color:white;
+cursor:pointer;
+border:2px solid black;
+border-radius:4px;
+}
+Button
+{
+	background-color:yellow;
+	font-family:arial black;
+	border-radius:12px;
+	font-size:20px;

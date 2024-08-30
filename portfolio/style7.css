@@ -1,0 +1,64 @@
+.navbar
+{
+	list-style-type:none;
+	display:flex;
+	overflow:hidden;
+	float:right;
+	
+}
+a
+{
+padding:40px;
+text-decoration:none;
+font-size:30px;
+border:1px,solid,white;
+color:white;
+}
+body
+{
+	background-color:black;
+}
+.Active
+{
+	background-color:blue;
+}
+li a:hover
+{
+	background-color:blue;
+}
+.resume
+{
+	color:yellow;
+	position:absolute;
+	top:200px;
+	left:800px;
+	font-size:30px;
+}
+.download
+{
+text-decoration:none;
+background-color:rgba(37,184,247);
+border-radius:20px;
+font-size:20px;
+padding:12px;
+color:white;
+border:2px solid red;
+cursor:pointer;
+}
+.download:hover
+{
+	background-color:black;
+}
+.download i
+{
+	margin-right:10px;
+}
+img
+{
+	width:500px;
+	height:400px;
+	position:absolute;
+	top:200px;
+	left:100px;
+}
+	

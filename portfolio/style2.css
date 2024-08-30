@@ -1,0 +1,62 @@
+.navbar
+{
+	list-style-type:none;
+	display:flex;
+	overflow:hidden;
+	float:right;
+    
+}
+a
+{
+	text-decoration:none;
+	padding:40px;
+	font-size:30px;
+	color:white;
+	border:1px,solid,white;
+}
+.Active
+{
+background-color:blue;
+}	
+li a:hover
+{
+	background-color:blue;
+	
+}
+img
+{
+margin-left:20px;
+width:270px;
+height:100px;
+padding-bottom:40px;
+color:black;	
+}
+body
+{
+	background-color:black;
+}
+.web
+{
+	
+	
+	width:500px;
+	height:400px;
+	float:right;
+}
+p
+{
+	color:red;
+	font-size:25px;
+	font-family:arial black;
+}
+.header
+{
+	color:white;
+}
+Button
+{
+font-size:30px;
+background-color:violet;
+border-radius:12px;
+}	
+
